@@ -1,28 +1,22 @@
 {
-  "users": [
-    {
-      "id": "1",
-      "username": "admin",
-      "password": "1qaz",
-      "roles":[
-        "ADMIN"
-      ]
-    },
-    {
-      "id": "2",
-      "username": "user",
-      "password": "1qaz",
-      "roles":[
-        "USER"
-      ]
-    },
-    {
-      "id": "3",
-      "username": "",
-      "password": "1qaz",
-      "roles":[
-        "ADMIN"
-      ]
-    }
-  ]
+    "users": [
+        {
+            "id": "1",
+            "username": "admin",
+            "password": "1qaz",
+            "roles": ["ADMIN"]
+        },
+        {
+            "id": "2",
+            "username": "user",
+            "password": "1qaz",
+            "roles": ["USER"]
+        },
+        {
+            "id": "3",
+            "username": "",
+            "password": "1qaz",
+            "roles": ["ADMIN"]
+        }
+    ]
 }
